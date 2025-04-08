@@ -84,7 +84,7 @@ Traditional staircase detection methods often struggle under conditions like poo
 
 Below are comparative visualizations showcasing the effectiveness of our approach:
 
-*Complication: Presence of obstructions**
+**Complication: Presence of obstructions**
 
 | Original Image | StairNet V3 Method's Result | Our Method's Result |
 |:--------------:|:------------------------:|:-------------------:|
@@ -96,29 +96,29 @@ Below are comparative visualizations showcasing the effectiveness of our approac
 |:--------------:|:------------------------:|:-------------------:|
 | ![Input Image 2](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/input/clg_3.jpeg?raw=true) | ![Previous Result 2](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/v3_results/clg_3.jpeg?raw=true) | ![Our Result 2](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/stairDepth_results/clg_3.jpeg?raw=true) |
 
-**Complication: Presence of Shawdows**
+**Complication: Irregular Stairs**
 
 | Original Image | StairNet V3 Method's Result | Our Method's Result |
 |:--------------:|:------------------------:|:-------------------:|
 | ![Input Image 3](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/input/clg_4.jpeg?raw=true) | ![Previous Result 3](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/v3_results/clg_4.jpeg?raw=true) | ![Our Result 3](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/stairDepth_results/clg_4.jpeg?raw=true) |
 
-**Complication: Presence of Shawdows**
+**On Display: Downstairs**
 
 | Original Image | StairNet V3 Method's Result | Our Method's Result |
 |:--------------:|:------------------------:|:-------------------:|
-| ![Input Image 2](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/input/clg_3.jpeg?raw=true) | ![Previous Result 2](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/v3_results/clg_3.jpeg?raw=true) | ![Our Result 2](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/stairDepth_results/clg_3.jpeg?raw=true) |
+| ![Input Image 4](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/input/clg_6.jpeg?raw=true) | ![Previous Result 4](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/v3_results/clg_6.jpeg?raw=true) | ![Our Result 4](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/stairDepth_results/clg_6.jpeg?raw=true) |
 
-**Complication: Presence of Shawdows**
-
-| Original Image | StairNet V3 Method's Result | Our Method's Result |
-|:--------------:|:------------------------:|:-------------------:|
-| ![Input Image 2](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/input/clg_3.jpeg?raw=true) | ![Previous Result 2](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/v3_results/clg_3.jpeg?raw=true) | ![Our Result 2](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/stairDepth_results/clg_3.jpeg?raw=true) |
-
-**Complication: Presence of Shawdows**
+**Complication: Presence of Obstacles or humans at distinct places I**
 
 | Original Image | StairNet V3 Method's Result | Our Method's Result |
 |:--------------:|:------------------------:|:-------------------:|
-| ![Input Image 2](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/input/clg_3.jpeg?raw=true) | ![Previous Result 2](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/v3_results/clg_3.jpeg?raw=true) | ![Our Result 2](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/stairDepth_results/clg_3.jpeg?raw=true) |
+| ![Input Image 6](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/input/clg_13.jpeg?raw=true) | ![Previous Result 6](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/v3_results/clg_13.jpeg?raw=true) | ![Our Result 6](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/stairDepth_results/clg_13.jpeg?raw=true) |
+
+**Complication: Presence of Obstacles or humans at distinct places II**
+
+| Original Image | StairNet V3 Method's Result | Our Method's Result |
+|:--------------:|:------------------------:|:-------------------:|
+| ![Input Image 5](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/input/clg_18.jpeg?raw=true) | ![Previous Result 5](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/v3_results/clg_18.jpeg?raw=true) | ![Our Result 5](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/stairDepth_results/clg_18.jpeg?raw=true) |
 
 ---
 
