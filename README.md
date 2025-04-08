@@ -68,7 +68,7 @@ Traditional staircase detection methods often struggle under conditions like poo
 
 📌 *Insert architecture image here from the `images` folder*
 
-![Architecture]([images/architecture.jpg](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/Stairdepth_architecture_.png))
+![Architecture]([[images/architecture.jpg](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/Stairdepth_architecture_.png](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/Stairdepth_architecture_.png?raw=true)))
 
 ---
 
