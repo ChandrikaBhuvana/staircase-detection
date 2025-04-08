@@ -73,10 +73,10 @@ Traditional staircase detection methods often struggle under conditions like poo
 ---
 
 ## 📈 Numerical Results
+![Numerical Results](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/numerical_results.png)
 
-📌 *Insert numerical results image here from the `images` folder*
-
-![Numerical Results](images/numerical_results.jpg)
+## 📈 Comparison Results
+![Comparison Results](https://github.com/ChandrikaBhuvana/staircase-detection/blob/main/Images/comparision_results.png)
 
 ---
 
